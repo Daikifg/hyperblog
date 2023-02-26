@@ -14,4 +14,4 @@ Un blog increíble para el curso de Platzi sobre Git y Github.
 
 Y lo más importante, me di cuenta que **hay mucho más por aprender**🤩
 
-[Sígume en instagram](https://www.instagram.com/daikifg)😉
+[Sígueme en instagram](https://www.instagram.com/daikifg)😉
