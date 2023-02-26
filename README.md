@@ -13,6 +13,7 @@ Un blog increíble para el curso de Platzi sobre Git y Github.
 *  Como contribuir en repositorios en donde no soy collaborator.
 *  A usar cherry pick XD.
 *  Ahora agreamos otro conocimiento porque sí.
+*  Ultimo commit por favor
 
 Y lo más importante, me di cuenta que **hay mucho más por aprender**🤩
 
