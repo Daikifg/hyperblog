@@ -11,7 +11,9 @@ Un blog increíble para el curso de Platzi sobre Git y Github.
 *  Las configuraciones y comandos básicos.
 *  Como conectarme a un mi repositorio remoto para bajar o subir cambios.
 *  Como contribuir en repositorios en donde no soy collaborator.
-*  A usar cherry pick XD
+*  A usar cherry pick XD.
+*  Ahora agreamos otro conocimiento porque sí.
+*  Ultimo commit por favor.
 
 Y lo más importante, me di cuenta que **hay mucho más por aprender**🤩
 
